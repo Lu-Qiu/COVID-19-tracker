@@ -1,0 +1,17 @@
+### Background
+In December 2019, cases of severe respiratory illness began to be reported across the city of Wuhan in China. These were caused by a new type of coronavirus, and the disease is now commonly referred to as COVID-19. The number of COVID-19 cases started to escalate more quickly in mid-January and the virus soon spread beyond China's borders. This story has been rapidly evolving ever since, and each day we are faced by worrying headlines regarding the current state of the outbreak.
+
+This shiny app is updated daily based on data published by Johns Hopkins University. We hope it can help people to get a deeper understanding of this unfolding pandemic.
+
+### Source
+
+All the data used in this shiny app comes from Johns Hopkins Center for Systems Science and Engineering github page: <https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series>
+
+### Code
+Code of this shiny app is available on github: <https://github.com/Lu-Qiu/COVID-19-tracker>
+
+
+
+### About the Author
+
+Qiu Lu, South China University of Technology, qiuluscut@gmail.com
