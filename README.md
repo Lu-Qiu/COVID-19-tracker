@@ -1,10 +1,10 @@
 ## COVID-19-tracker
 
-This github page contains the code for the Shiny APP developed by Lu Qiu, a student from South China University of Technology. This is part of her work in the project "Date Visualization and Web Application"
+This github page contains the code for the Shiny app developed by Lu Qiu, a student from South China University of Technology. This is part of her work in the project "Date Visualization and Web Application"
 
 Input data are obtained from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series and are updated daily.
 
-This Shiny App aims to provide:
+This Shiny app aims to provide:
 
 ● a map that shows the world distribution of the number of confirmed cases and deaths 
 
