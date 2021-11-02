@@ -2,7 +2,7 @@
 
 This github page contains the code for the Shiny APP developed by Lu Qiu, a student from South China University of Technology. This is part of her work in the project "Date Visualization and Web Application"
 
-Input data are obtained from the Johns Hopkins Center for Systems Science and Engineering github page and are updated daily.
+Input data are obtained from https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series and are updated daily.
 
 This Shiny App aims to provide:
 
