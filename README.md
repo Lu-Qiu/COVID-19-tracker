@@ -19,6 +19,10 @@ This Shiny App aims to provide:
 
 Some screenshots of the interface are provided below.
 
+![image](https://user-images.githubusercontent.com/85088486/139848840-555dd8c6-b4b3-4bb8-b0e1-0d1042533be3.png)
+![image](https://user-images.githubusercontent.com/85088486/139848911-1814b5d4-ad40-437b-934d-60d7673ad655.png)
+
+
 ## Contact
 email: qiuluscut@gmail.com
 
