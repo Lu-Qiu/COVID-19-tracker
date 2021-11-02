@@ -5,6 +5,7 @@ This github page contains the code for the Shiny APP developed by Lu Qiu, a stud
 Input data are obtained from the Johns Hopkins Center for Systems Science and Engineering github page and are updated daily.
 
 This Shiny App aims to provide:
+
 ● a map that shows the world distribution of the number of confirmed cases and deaths 
 
 ● a time-series line graph that shows the changes in the number of confirmed cases over time
