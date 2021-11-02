@@ -17,7 +17,7 @@ This Shiny App aims to provide:
 
 ## Shiny Interface
 
-Follow this link: http://127.0.0.1:7752/ for the interactive Shiny app.
+Follow this link: https://lu-qiu.shinyapps.io/covid-19_tracker/ for the interactive Shiny app.
 
 Some screenshots of the interface are provided below.
 
